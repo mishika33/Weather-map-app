@@ -1,0 +1,12 @@
+#wrapper {
+    border: 5px solid black;
+    position: fixed;
+    bottom: 100px;
+    z-index: 1000;
+    right: 100px;
+    background-color: beige;
+}
+
+#map {
+    height: 100vh;
+}
